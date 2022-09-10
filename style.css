@@ -44,10 +44,11 @@ body {
   display: flex;
 }
 #midWholePart1 {
+  padding-bottom: 2vh;
   padding-left: 60px;
   padding-right: 500px;
   padding-top: 13vh;
-  padding-bottom: 2vh;
+  
 }
 #midWholePart11 div ul li {
   font-size: 20px;
