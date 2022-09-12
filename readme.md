@@ -11,17 +11,13 @@
 - CSS Selectors
 - CSS Flex-box
 
-
-
-
-
 ### **⌛TIME TAKEN TO COMPLETE THIS PROJECT:** 
 - I have taken 2 hours to complete this project.
 
 ### **👀HOW MY PROJECT LOOKS LIKE:**
 ![Plant Home Page](ScreenCapture-Of-Plant-Home-Page.png)
 
-### 💻It works only in **LAPTOP**(Not Responsive).
+### 💻This Project looks good only in **Laptop Screen**(Not Responsive)
 
 ### **🚀LIVE LINK:**
 -  This project is hosted on **Netlify**.You can Check it live using below link: 
