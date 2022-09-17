@@ -3,9 +3,11 @@
   padding: 0px;
   outline: 0px;
 }
+/* background */
 body {
   background-color: #f4f3f8;
 }
+/* nav-bar */
 #navFirst img {
   height: 45px;
 }
@@ -34,12 +36,14 @@ body {
 #navEnd div img {
   padding: 0px 20px;
 }
+/* mid-whole-part-two */
 #imgMain {
   position: absolute;
   right: 0px;
   bottom: 0px;
   height: 85vh;
 }
+/* mid-whole-part-one */
 #midWholePart13 {
   display: flex;
 }
@@ -96,6 +100,7 @@ body {
 #feeding {
   height: 80px;
 }
+/* hover-effect */
 #navMid div h4:hover {
   font-weight: bold;
   cursor: pointer;
